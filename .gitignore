@@ -1,0 +1,11 @@
+.*
+*/.*
+*.iml
+*.eml
+bin
+log
+project
+target
+test-output
+work
+conf/*
